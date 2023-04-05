@@ -1,1 +1,1 @@
-from mox import *
+from mox3.mox import *
